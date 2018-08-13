@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "baidusearch:baidu-it"
   },
-  "repository": "https://github.com/shendezhou/googlesearch",
+  "repository": "https://github.com/shendezhou/baidusearch",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
