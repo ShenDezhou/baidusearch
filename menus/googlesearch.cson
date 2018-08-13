@@ -1,0 +1,22 @@
+# See https://atom.io/docs/latest/hacking-atom-package-word-count#menus for more details
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'Toggle baidusearch'
+      'command': 'baidusearch:baidu-it'
+    }
+  ]
+'menu': [
+  {
+    'label': 'My Packages'
+    'submenu': [
+      'label': 'Baidu Search'
+      'submenu': [
+        {
+          'label': 'Search'
+          'command': 'baidusearch:baidu-it'
+        }
+      ]
+    ]
+  }
+]

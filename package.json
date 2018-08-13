@@ -1,0 +1,16 @@
+{
+  "name": "baidusearch",
+  "main": "./lib/googlesearch",
+  "version": "1.0.0",
+  "description": "Search Highlighted word in baidu",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "baidusearch:baidu-it"
+  },
+  "repository": "https://github.com/shendezhou/googlesearch",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
