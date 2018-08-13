@@ -1,7 +1,7 @@
 {
   "name": "baidusearch",
   "main": "./lib/googlesearch",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "Search Highlighted word in baidu",
   "keywords": [],
   "activationCommands": {
