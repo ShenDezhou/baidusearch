@@ -8,4 +8,4 @@
 # For more detailed documentation see
 # https://atom.io/docs/latest/behind-atom-keymaps-in-depth
 'atom-workspace':
-  'ctrl-shift-b': 'baidusearch:baidu-it'
+  'ctrl-shift-a': 'baidusearch:baidu-it'
